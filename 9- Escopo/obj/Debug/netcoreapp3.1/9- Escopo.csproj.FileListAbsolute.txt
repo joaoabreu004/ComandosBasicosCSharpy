@@ -1,0 +1,12 @@
+C:\Users\jvabr\source\repos\AprendendoCSharp\9- Escopo\bin\Debug\netcoreapp3.1\9- Escopo.exe
+C:\Users\jvabr\source\repos\AprendendoCSharp\9- Escopo\bin\Debug\netcoreapp3.1\9- Escopo.deps.json
+C:\Users\jvabr\source\repos\AprendendoCSharp\9- Escopo\bin\Debug\netcoreapp3.1\9- Escopo.runtimeconfig.json
+C:\Users\jvabr\source\repos\AprendendoCSharp\9- Escopo\bin\Debug\netcoreapp3.1\9- Escopo.runtimeconfig.dev.json
+C:\Users\jvabr\source\repos\AprendendoCSharp\9- Escopo\bin\Debug\netcoreapp3.1\9- Escopo.dll
+C:\Users\jvabr\source\repos\AprendendoCSharp\9- Escopo\bin\Debug\netcoreapp3.1\9- Escopo.pdb
+C:\Users\jvabr\source\repos\AprendendoCSharp\9- Escopo\obj\Debug\netcoreapp3.1\9- Escopo.AssemblyInfoInputs.cache
+C:\Users\jvabr\source\repos\AprendendoCSharp\9- Escopo\obj\Debug\netcoreapp3.1\9- Escopo.AssemblyInfo.cs
+C:\Users\jvabr\source\repos\AprendendoCSharp\9- Escopo\obj\Debug\netcoreapp3.1\9- Escopo.csproj.CoreCompileInputs.cache
+C:\Users\jvabr\source\repos\AprendendoCSharp\9- Escopo\obj\Debug\netcoreapp3.1\9- Escopo.dll
+C:\Users\jvabr\source\repos\AprendendoCSharp\9- Escopo\obj\Debug\netcoreapp3.1\9- Escopo.pdb
+C:\Users\jvabr\source\repos\AprendendoCSharp\9- Escopo\obj\Debug\netcoreapp3.1\9- Escopo.genruntimeconfig.cache
